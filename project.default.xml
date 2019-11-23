@@ -1,0 +1,25 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Workspace/comms-audit" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-aws" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-composer" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-content-store" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-e2e-tests" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-http-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-kafka-messages" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-orchestration" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-platform" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/comms-template-manager" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
