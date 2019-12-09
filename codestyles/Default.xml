@@ -1,1 +1,5 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="FORMATTER" value="1" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
