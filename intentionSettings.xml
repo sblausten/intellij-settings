@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/Import/Import all members" />
+  </component>
+</application>
